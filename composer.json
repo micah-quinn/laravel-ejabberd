@@ -2,6 +2,12 @@
   "name": "kevin-kibet/laravel-ejabberd",
   "description": "Ejabbered API Wrapper for Laravel/lumen",
   "license": "MIT",
+  "repositories": [
+     {
+        "type": "vcs",
+        "url": "https://github.com/micah-quinn/laravel-ejabberd"
+     }
+  ],
   "authors": [
     {
       "name": "kevin-kibet",
